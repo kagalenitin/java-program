@@ -1,6 +1,10 @@
 This testfile is to learn Git Merge.
+This is a testfile to learn git merge.
 
 Create a file that will be helpful
 Make changes to the file at same places
 Add it to the repo(Branch/master)
 Go ahead and merge
+Create a file.
+Make changes to the file.
+Add it to the repo(Branch/master).
